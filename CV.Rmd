@@ -1,30 +1,211 @@
 ---
-title: "CV_mcadpedro"
-author: "Pedro Martín Cadenas"
-date: '2023-03-19'
-output: pdf_document
+output: 
+  pdf_document:
+    template: svm-latex-cv_mod.tex
+geometry: margin=1in
+linestretch: 0.5
+
+title: "long_cv"
+author: Pedro Martín-Cadenas
+
+jobtitle: "PhD Candidate, Department of Political and Social Sciences, European University Institute"
+address: "Via della Badia dei Roccettini, 9, 50014 Fiesole FI, Italy"
+fontawesome: yes
+email: pedro.martin@eui.eu
+# phone: "+41 078 267 5636"
+github: Pedromartinc
+twitter: mcadpedro
+# osf: "Enter 5 digit osf string here"
+#web: Pedromartinc/CV_mcadpedro/CV.pdf
+updated: yes
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-aadasd 
-## R Markdown
+\vspace{1 mm}
+# Research Interests
+\vspace{1 mm}
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+> Protests, political sociology, political behavior, quantitative methodology
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+\vspace{1 mm}
+# Academic Positions
+\vspace{1 mm}
 
-```{r cars}
-summary(cars)
-```
+> **PhD Researcher** \hfill 2020 - current \vspace{0.1 mm}
 
-## Including Plots
+> European University Institute \vspace{2 mm}
 
-You can also embed plots, for example:
+> **Visiting PhD Researcher** \hfill Spring 2023 \vspace{0.1 mm}
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+> University of Zurich (UZH) \vspace{0.1 mm}
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+> Host: Prof. Thomas Kurer \vspace{2 mm}
+
+\vspace{1 mm}
+# Education
+\vspace{1 mm}
+
+> **Ph.D. in Political and Social Sciences** \hfill (expected) 2024 \vspace{0.1 mm}
+
+> European University Institute \vspace{0.1 mm}
+   
+> Supervisor: Arnout van de Rijt & Simon Hix \vspace{2 mm}
+   
+> **M.Res. in Political and Social Sciences** \hfill 2021 \vspace{0.1 mm}
+   
+> European University Institute \vspace{2 mm}
+
+> **M.A. in Political Science** \hfill 2020 \vspace{0.1 mm}
+   
+> Central European University \vspace{0.1 mm}
+
+> Distinction \vspace{0.2 mm}
+
+> **M.A. in Political Science** \hfill 2018 \vspace{0.1 mm}
+   
+> Universitat Autònoma de Barcelona \vspace{0.1 mm}
+   
+> **B.A. in Electrical Engineering** \hfill 2016 \vspace{0.1 mm}
+   
+> Universidad de Valladolid (Valladolid, Spain) \vspace{0.1 mm}
+   
+> Best GPA award \vspace{2 mm}
+   
+\vspace{1 mm}
+# Work-in-progress
+\vspace{1 mm}
+
+> Mobilizing Against Inequality: How Protests Shape Preferences for Redistribution (*under review*) \vspace{2 mm}
+
+> Financial Exclusion and Voting Behavior in Spain (*working paper*) \vspace{2 mm}
+
+
+\vspace{1 mm}
+# Research Grants
+\vspace{1 mm}
+
+> European University Institute \vspace{2 mm}
+
+\vspace{1 mm}
+# Research Projects
+\vspace{1 mm}
+
+
+*As Member of the Research Team*\vspace{1 mm}
+
+> Research Assistant · [EUANDI2019](https://euandi2019.eu/survey/default/EN) \hfill 2019 \vspace{0.1 mm}
+
+
+\vspace{1 mm}
+# Teaching
+\vspace{1 mm}
+
+> Introduction to Mathematics for Political and Social Scientists \hfill 2022 & 2023 \vspace{0.1 mm}
+
+> European University Institute \vspace{0.1 mm}
+
+> Private Teacher in Mathematics, Microeconomics, Chemistry \hfill 2016-2018 \vspace{0.1 mm}
+
+> Freelance \vspace{0.1 mm}
+
+\vspace{1 mm}
+# Conference Presentations & Invited Talks
+\vspace{1 mm}
+
+> 12th Annual of the European Political Science Association (EPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
+   
+> Glasgow, Scotland \vspace{2 mm}
+
+> 80th Annual Midwest Political Science Association Conference (MPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
+   
+> Chicago, US \vspace{2 mm}
+
+> ECPR joint sessions \hfill 2022 \vspace{0.1 mm}
+   
+> online \vspace{2 mm}
+
+
+ 
+\vspace{1 mm}
+# Complementary Academic Formation
+\vspace{1 mm}
+
+> Summer School - Introduction to Python \hfill 2021
+
+> European Consortium of Political Research (ECPR) \vspace{2 mm}
+
+> Introduction to Teaching in Higher Education \hfill 2022
+   
+>  European University Institute \vspace{2 mm}
+   
+
+\vspace{1 mm}
+# Scholarships & Awards
+\vspace{1 mm}
+  
+> `Salvador de Madariaga' predoctoral Scholarship \hfill 2020 - 2024 \vspace{0.1 mm}
+  
+> Spanish Ministry of Education and European Comission \vspace{2 mm}
+
+> Fee Waiver for MA studies \hfill 2019-2020 \vspace{0.1 mm}
+  
+> Central European University \vspace{2 mm}
+
+> Ministry of Education Scholarship for MA studies \hfill 2017-2018 \vspace{0.1 mm}
+  
+> Spanish Ministry of Education \vspace{2 mm}
+
+> Ministry of Education Scholarship for BA studies \hfill 2012 - 2016 \vspace{0.1 mm}
+  
+> Spanish Ministry of Education \vspace{2 mm}
+  
+> Best GPA of the Promotion \hfill 2012-2016, Electrical Engineering \vspace{0.1 mm}
+  
+> University of Valladolid (Spain) \vspace{0.1 mm}
+
+\vspace{1 mm}
+# Professional Service
+\vspace{1 mm}
+
+> Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2022 - 2023
+   
+> European University Institute \vspace{2 mm}
+
+> Research Assistant - Data collection EP elections  \hfill 2022
+   
+> European University Institute \vspace{2 mm}
+
+> Student Assistant  \hfill 2020
+   
+> European Consortium of Political Research (ECPR) \vspace{2 mm}
+
+\vspace{1 mm}
+# Technical Skills
+\vspace{1 mm}
+
+> **Programming Languages:** R (advanced), Python (beginner), C (advanced), MatLab (intermediate)  \vspace{1 mm}
+  
+> **Statistical Softwares:** RStudio, Stata, SPSS, Excel  \vspace{1 mm}
+
+> **Text Processors:** RMarkdown, \LaTeX, Office  \vspace{1 mm}
+  
+> **Reference Management:** Mendeley \vspace{1 mm}
+
+\vspace{1 mm}
+# Languages
+\vspace{1 mm}
+
+> English (proficient)  \vspace{1 mm}
+
+> Spanish (native)  \vspace{1 mm}
+ 
+> Italian (intermediate)  \vspace{1 mm}
+
