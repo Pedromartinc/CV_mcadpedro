@@ -12,7 +12,7 @@ jobtitle: "PhD Candidate, Department of Political and Social Sciences, European 
 address: "Via della Badia dei Roccettini, 9, 50014 Fiesole FI, Italy"
 fontawesome: yes
 email: pedro.martin@eui.eu
-# phone: "+41 078 267 5636"
+# phone: "+34 652 08 94 82"
 github: Pedromartinc
 twitter: mcadpedro
 # osf: "Enter 5 digit osf string here"
@@ -33,7 +33,7 @@ urlcolor: blue
 # Research Interests
 \vspace{1 mm}
 
-> Protests, political sociology, political behavior, quantitative methodology
+> Political Sociology | Protests | Inequality | Quantitative methodology
 
 \vspace{1 mm}
 # Academic Positions
@@ -57,7 +57,7 @@ urlcolor: blue
 
 > European University Institute \vspace{0.1 mm}
    
-> Supervisor: Arnout van de Rijt & Simon Hix \vspace{2 mm}
+> Supervisors: Arnout Van De Rijt and Simon Hix \vspace{2 mm}
    
 > **M.Res. in Political and Social Sciences** \hfill 2021 \vspace{0.1 mm}
    
@@ -78,21 +78,24 @@ urlcolor: blue
 > Universidad de Valladolid (Valladolid, Spain) \vspace{0.1 mm}
    
 > Best GPA award \vspace{2 mm}
+
+> **Vocational Training in Automotive Science** \hfill 2012 \vspace{0.1 mm}
    
+> Juan de Herrera (Valladolid, Spain) \vspace{0.1 mm}
+
+
 \vspace{1 mm}
 # Work-in-progress
 \vspace{1 mm}
 
-> Mobilizing Against Inequality: How Protests Shape Preferences for Redistribution (*under review*) \vspace{2 mm}
+> Mobilizing Against Inequality: How Protests Shape Preferences for Redistribution \vspace{2 mm}
 
-> Financial Exclusion and Voting Behavior in Spain (*working paper*) \vspace{2 mm}
+> Banking Alone: The Political Implications of Deprivation in Access to Banking Services \vspace{2 mm}
 
+> Local Economic Dynamics, Job Insecurity, and Political Preferences: Insights from Post-Brexit UK \vspace{0.1 mm}
 
-\vspace{1 mm}
-# Research Grants
-\vspace{1 mm}
+> With Valentina Consiglio, Kattalina Berriochoa, Thomas Kurer, and Lluc Fortuyn
 
-> European University Institute \vspace{2 mm}
 
 \vspace{1 mm}
 # Research Projects
@@ -103,16 +106,26 @@ urlcolor: blue
 
 > Research Assistant · [EUANDI2019](https://euandi2019.eu/survey/default/EN) \hfill 2019 \vspace{0.1 mm}
 
+> European University Institute \vspace{2 mm}
+
+> Coordinator - Cross-country data codification of the EU RRF \hfill Autumn 2023 \vspace{0.1 mm}
+
+> European University Institute \vspace{2 mm}
+
 
 \vspace{1 mm}
-# Teaching
+# Teaching & Mentoring
 \vspace{1 mm}
 
 > Introduction to Mathematics for Political and Social Scientists \hfill 2022 & 2023 \vspace{0.1 mm}
 
 > European University Institute \vspace{0.1 mm}
 
-> Private Teacher in Mathematics, Microeconomics, Chemistry \hfill 2016-2018 \vspace{0.1 mm}
+> Mentoring for first-year researchers \hfill 2021 & 2022 \vspace{0.1 mm}
+
+> European University Institute \vspace{0.1 mm}
+
+> Private Teacher in Mathematics, Microeconomics, Chemistry \hfill 2016-2019 \vspace{0.1 mm}
 
 > Freelance \vspace{0.1 mm}
 
@@ -120,11 +133,19 @@ urlcolor: blue
 # Conference Presentations & Invited Talks
 \vspace{1 mm}
 
-> 12th Annual of the European Political Science Association (EPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
+> Rural-Urban Divides in Europe (RUDE) conference \hfill 2023 \vspace{0.1 mm}
+
+> Fráncfort, Germany \vspace{0.2 mm}
+
+> The political drivers and consequences of labor market inequality, workshop \hfill 2023 \vspace{0.1 mm}
+
+> Konstanz, Germany \vspace{0.2 mm}
+
+> 12th Annual of the European Political Science Association (EPSA), \hfill 2023 \vspace{0.1 mm}
    
 > Glasgow, Scotland \vspace{2 mm}
 
-> 80th Annual Midwest Political Science Association Conference (MPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
+> 80th Annual Midwest Political Science Association Conference (MPSA), \hfill 2023 \vspace{0.1 mm}
    
 > Chicago, US \vspace{2 mm}
 
@@ -144,7 +165,7 @@ urlcolor: blue
 
 > Introduction to Teaching in Higher Education \hfill 2022
    
->  European University Institute \vspace{2 mm}
+> European University Institute \vspace{2 mm}
    
 
 \vspace{1 mm}
@@ -183,9 +204,10 @@ urlcolor: blue
    
 > European University Institute \vspace{2 mm}
 
-> Student Assistant  \hfill 2020
+> Student Assistant - Summer School \hfill 2020
    
 > European Consortium of Political Research (ECPR) \vspace{2 mm}
+
 
 \vspace{1 mm}
 # Technical Skills

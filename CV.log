@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.21)  19 MAR 2023 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.21)  4 JAN 2024 16:35
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -696,7 +696,7 @@ wesomethree.fd"
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-265.
+273.
 ("C:\Users\nitra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1pplj.fd"
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [1
@@ -705,14 +705,14 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 AED: lastpage setting LastPage
 [3] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 636129B7BA75F31EDFCBE2559F6C7D1D;1823.
+(rerunfilecheck)             Checksum: 690BA0CC9668BB5724018B84949797B6;1768.
  ) 
 Here is how much of TeX's memory you used:
- 15132 strings out of 480202
- 225144 string characters out of 2877025
- 562700 words of memory out of 3000000
- 31361 multiletter control sequences out of 15000+200000
- 570957 words of font info for 112 fonts, out of 3000000 for 9000
+ 15121 strings out of 480202
+ 225050 string characters out of 2877025
+ 562673 words of memory out of 3000000
+ 31359 multiletter control sequences out of 15000+200000
+ 570546 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,1193b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/nitra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
@@ -726,9 +726,9 @@ ers/nitra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb
 ><C:/Users/nitra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/upl
 r8a.pfb><C:/Users/nitra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palat
 ino/uplri8a.pfb>
-Output written on CV.pdf (3 pages, 97606 bytes).
+Output written on CV.pdf (3 pages, 96074 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 18537 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 18529 words of extra memory for PDF output out of 20736 (max. 10000000)
 
